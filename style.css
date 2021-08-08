@@ -1,0 +1,27 @@
+body {
+    background-size: cover;
+    text-align: center;
+}
+
+.new {
+    background-color: white;
+    border-radius: 20px;
+    border: 1px solid whitesmoke;
+    width: 400px;
+    margin: 15px;
+    font-size: 18px;
+}
+
+.heading {
+    font-family: 'Gill Sans';
+    color: violet;
+}
+
+#image {
+    width: 150px;
+}
+div{
+    background: rgba(255, 255, 255, 0.815);
+    width: 500px;
+    border-radius: 75px;
+}

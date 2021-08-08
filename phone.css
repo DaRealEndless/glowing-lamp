@@ -1,0 +1,15 @@
+.header{
+    font-family: 'Homemade Apple', cursive;
+    color:white;
+    font-size:70;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border-radius:30px;
+    box-shadow: teal 30px 20px;
+   
+}
